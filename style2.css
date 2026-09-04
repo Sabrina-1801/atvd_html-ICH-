@@ -1,0 +1,53 @@
+body{
+  background-color: #542592;
+  font-family: system-ui, sans-serif;
+}
+
+
+h3 {
+  color: rgb(34, 23, 59);
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #67a3b3;
+  border-radius: 30px;
+  display: block;      
+  margin-left: auto;   
+  margin-right: auto; 
+
+}
+
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+
+/* Change the link and background color on hover */
+li a:hover {
+  background-color: #8d9994;
+  color: white;
+  border-radius: 30px;
+}
+
+#principal{
+  margin: 30px;
+  background-color: #cabcdb;
+  padding: 80px;
+  border-radius: 30px;
+}
+
+img {
+    display: block;      
+    margin-left: auto;   
+    margin-right: auto;
+    border-radius: 30px; 
+}
