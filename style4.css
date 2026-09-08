@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(21, 77, 77);
+    font-family: system-ui, sans-serif;
+}
+#principal{
+    margin: 30px;
+    padding: 80px;
+    border-radius: 30px;
+    background-color: rgb(70, 70, 153);
+}
+#principal2{
+    text-align: center;
+    margin: 30px;
+    padding: 80px;
+    border-radius: 30px;
+    background-color: rgb(70, 70, 153);
+}
+#principal2 ul{
+    text-align: left;
+    list-style-type: circle;
+}

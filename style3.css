@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(95, 53, 36);
+    font-family: system-ui, sans-serif;
+}
+h3{
+    color: rgb(68, 24, 7);
+}
+#principal{
+    margin: 30px;
+    background-color: rgb(236, 222, 201);
+    padding: 80px;
+    border-radius: 30px;
+}
+#principal2{
+    margin: 30px;
+    background-color: rgb(236, 222, 201);
+    padding: 80px;
+    border-radius: 30px;
+    display: flex;       /* Coloca o texto e a lista lado a lado */
+    align-items: start;  /* Alinha os dois no topo */
+    gap: 20px;
+}
+
+img{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 60px;
+    display: block;      
+    margin-left: auto;   
+    margin-right: auto;
+    width: 600px;
+}
+#principal3{
+    margin: 30px;
+    background-color: rgb(236, 222, 201);
+    padding: 80px;
+    border-radius: 30px;
+
+}
