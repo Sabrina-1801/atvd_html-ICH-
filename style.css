@@ -34,12 +34,13 @@ li a {
   text-decoration: none;
   transition: 0.3s;
   transform: scale(1);
+  border-radius: 10px;
+  margin: 10px;
 }
 
 li a:hover {
-  background-color: #8d9994;
+  background-color: #fcb735fa;
   color: white;
-  border-radius: 30px;
   transform: scale(1.04);
 }
 
