@@ -33,13 +33,14 @@ li a {
   padding: 8px 16px;
   text-decoration: none;
   transition: 0.3s;
+  transform: scale(1);
 }
 
 li a:hover {
   background-color: #8d9994;
   color: white;
   border-radius: 30px;
-  transform: scale(1.02);
+  transform: scale(1.04);
 }
 
 #principal{
