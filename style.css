@@ -32,12 +32,14 @@ li a {
   color: rgb(255, 255, 255);
   padding: 8px 16px;
   text-decoration: none;
+  transition: 0.3;
 }
 
 li a:hover {
   background-color: #8d9994;
   color: white;
   border-radius: 30px;
+  transform: scale(1.02);
 }
 
 #principal{
