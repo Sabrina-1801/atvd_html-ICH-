@@ -3,6 +3,9 @@ body{
   font-family: system-ui, sans-serif;
 }
 
+p {
+    text-align:center;
+}
 
 h3 {
   color: rgb(47, 80, 70);
@@ -15,15 +18,14 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 400px;
   background-color: #67a3b3;
-  border-radius: 30px;
+  border-radius: 20px;
   display: block;      
   margin-left: auto;   
   margin-right: auto; 
 
 }
-
 
 li a {
   display: block;
@@ -32,8 +34,6 @@ li a {
   text-decoration: none;
 }
 
-
-/* Change the link and background color on hover */
 li a:hover {
   background-color: #8d9994;
   color: white;
@@ -43,7 +43,7 @@ li a:hover {
 #principal{
   margin: 30px;
   background-color: #d1e4e0;
-  padding: 80px;
+  padding: 300px;
   border-radius: 30px;
 }
 
