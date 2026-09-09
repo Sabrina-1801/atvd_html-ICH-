@@ -34,7 +34,7 @@ li a {
   text-decoration: none;
   transition: 0.3s;
   transform: scale(1);
-  border-radius: 10px;
+  border-radius: 20px;
   margin: 10px;
 }
 
